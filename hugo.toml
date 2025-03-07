@@ -5,6 +5,7 @@ theme = "digitalgarden2"
 
 googleAnalytics = "UA-PROPERTY_ID"
 
+
 [Params]
   description = "A Biomedical Reference Management Tool"
   images = ['/pubxel-logo.png']
