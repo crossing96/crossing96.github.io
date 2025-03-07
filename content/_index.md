@@ -4,7 +4,9 @@ title: Homepage
 
 # What is Pub-Xel
 
-**Pub-Xel** is a free software designed to streamline the management of biomedical references in **Microsoft Excel**. It integrates seamlessly with **PubMed** and operates within the MS Windows environment.
+**Pub-Xel Project** is a free, open-soure initiative aimed at streamlining access to research and improving efficiency in managing it. 
+
+**Pub-Xel Software** is designed to streamline the management of biomedical references in **Microsoft Excel**, integrating seamlessly with **PubMed**.
 
 With Pub-Xel, you can:  
 - **Import** PubMed article data directly into Excel.  

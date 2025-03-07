@@ -7,10 +7,9 @@ googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
   description = "A Biomedical Reference Management Tool"
-  images = ['/digital-garden-logo.png']
+  images = ['/pubxel-logo.png']
   enableSearch = true
 
- # Home, Download, Author, Resources
 [menu]
 [[menu.main]]
   name = 'Home'

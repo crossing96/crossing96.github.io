@@ -14,7 +14,7 @@ title = "Personal Digital Garden"
 
 [Params]
   description = "My Digital Garden on the Internet"
-  images = ['/digital-garden-logo.png']
+  images = ['/pubxel-logo.png']
 ```
 
 Setting the above values will be used as default for all pages unless its overridden in a specific page's markdown.
