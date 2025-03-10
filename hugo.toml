@@ -7,6 +7,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 
 
 [Params]
+  title = "Pub-Xel"
   description = "A Biomedical Reference Management Tool"
   images = ['/pubxel-logo.png']
   enableSearch = true
