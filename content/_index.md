@@ -1,5 +1,7 @@
 ---
 title: Homepage
+description: A Biomedical Reference Management Tool
+date: 2025-03-01
 ---
 
 # What is Pub-Xel
