@@ -39,7 +39,7 @@ googleAnalytics = "G-QCHBQTC6WG"
   weight = 2
 [[menu.social]]
   name = 'Email'
-  url = 'mailto:jongyeobkim@pubxel.org'
+  url = 'mailto:info@pubxel.org'
   weight = 8
 
 # syntax highlight settings
