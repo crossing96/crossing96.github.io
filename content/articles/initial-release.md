@@ -20,4 +20,4 @@ Currently, I am focusing on developing the MacOS version of Pub-Xel Software, wh
 
 Thank you for your interest in Pub-Xel project. I hope you find these tools as useful and enjoyable as I did while writing them. If you did, please consider sharing them with your friends and colleagues.
 
-Enormous thanks to [Kayeong Shin](https://www.linkedin.com/in/kayeong-shin-262764335/) and Junmin Song for their unique ideas and app testing!
+Enormous thanks to [Kayeong Shin](https://www.linkedin.com/in/kayeong-shin-262764335/) and [Junmin Song](https://scholar.google.com/citations?user=4PR_CKsAAAAJ&hl=en) for their unique ideas and app testing!
