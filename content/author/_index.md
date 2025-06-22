@@ -12,7 +12,7 @@ title: Team
 - Oncotweet codebase development
 - Windows App development and testing
 
-## **[Kayeong Shin, MD]()**
+## **[Kayeong Shin, MD](https://scholar.google.com/citations?user=hkeXTd4AAAAJ&hl=ko)**
 - Account administration: [GU Cancer](https://x.com/GU_Onc_PubMed)
 - Oncotweet codebase development 
 - macOS App development and testing
