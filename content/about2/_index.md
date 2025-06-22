@@ -1,20 +1,33 @@
 ---
 title: What is Pub-Xel App?
 ---
-**Pub-Xel App** is designed to streamline the management of biomedical references in **Microsoft Excel**, integrating seamlessly with **PubMed**.
+# 🧩 Pub-Xel App: Reference Management in Excel
 
-With Pub-Xel App, you can:  
-- **Import** PubMed article data directly into Excel.  
-- **Manage** article PDFs and supplementary files within Excel.  
-- **Access** files instantly from Excel, Word, PowerPoint, and other software using global hotkeys.
+**Pub-Xel App** is a lightweight tool that streamlines the management of **biomedical references** directly in **Microsoft Excel**, with seamless integration with **PubMed**.
 
-Built for long-term use, Pub-Xel App is designed to help clinicians and researchers efficiently manage references—not just for individual projects, but throughout their careers.
+### ⚙️ Key Features
 
-[Download](https://pubxel.org/download/) here (For Windows)
+- 📥 **Import** PubMed article data directly into Excel  
+- 📂 **Manage** PDFs and supplementary files within Excel  
+- ⚡ **Instant access** from Excel, Word, PowerPoint, and more using global hotkeys
 
-<hr />
+Designed for long-term use, Pub-Xel helps clinicians and researchers manage references across **multiple projects and over entire careers**.
 
-Pub-Xel App is an open-source tool and the code is available in [Github](https://github.com/crossing96/Pub-Xel). Currenly supports Windows only but MacOS Version is under development.
+📦 [Download for Windows](https://pubxel.org/download/)
 
-If you have any feedback or suggestions for improvement, please feel free to let us know at: info@pubxel.org
+---
+
+## 💻 Open Source & Compatibility
+
+Pub-Xel is an open-source project.  
+🔓 [View the Code on GitHub](https://github.com/crossing96/Pub-Xel)  
+🖥️ Currently supports **Windows only** – **macOS version is in development**.
+
+---
+
+## ✉️ Feedback or Questions?
+
+We’d love to hear from you!  
+📬 Email us at: `info@pubxel.org`
+
 ---

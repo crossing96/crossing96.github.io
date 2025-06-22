@@ -36,11 +36,13 @@ We use a mix of automation and AI to solve this:
 
 We share highlights from top clinical papers on Twitter. Each account is managed by a passionate team member:
 
-- [@GU_Onc_PubMed](https://x.com/GU_Onc_PubMed) – Genitourinary cancers (Kayeong Shin)  
-- [@Thoracic_PubMed](https://x.com/Thoracic_PubMed) – Thoracic, Head & Neck (Junmin Song)
-- [@GI_Onc_PubMed](https://x.com/GI_Onc_PubMed) – Gastrointestinal (Junmin Song)  
-- [@BreastOncPubMed](https://x.com/BreastOncPubMed) – Breast cancer (Jongyeob Kim)
-- [@OncologyPubMed](https://x.com/OncologyPubMed) – Pan-cancer & general oncology (Jongyeob Kim)
+- [@OncologyPubMed](https://x.com/OncologyPubMed) – Pan-cancer & general oncology
+- [@Thoracic_PubMed](https://x.com/Thoracic_PubMed) – Thoracic, Head & Neck
+- [@GI_Onc_PubMed](https://x.com/GI_Onc_PubMed) – Gastrointestinal
+- [@GU_Onc_PubMed](https://x.com/GU_Onc_PubMed) – Genitourinary
+- [@BreastOncPubMed](https://x.com/BreastOncPubMed) – Breast
+- [@CNS_Onc_PubMed](https://x.com/CNS_Onc_PubMed) – CNS
+- [@DermOncPubMed](https://x.com/DermOncPubMed) – Skin
 
 📲 Follow your favorite cancer type to stay sharp on rounds, in clinic, or in the lab.
 
