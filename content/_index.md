@@ -16,7 +16,7 @@ date: 2025-03-01
 
 Stay up to date effortlessly:
 - 📊 [About OncoTweet](https://pubxel.org/about/)
-- 🐦 Twitter feeds (see full list [here](https://pubxel.org/about/)):
+- 🐦 Twitter feeds (see full list [here](https://www.pubxel.org/about#twitter-summaries)):
   - [@Thoracic_PubMed](https://x.com/Thoracic_PubMed) – Thoracic, Head & Neck Cancers
   - [@GU_Onc_PubMed](https://x.com/GU_Onc_PubMed) – Genitourinary Cancers
   - [@BreastOncPubMed](https://x.com/BreastOncPubMed) – Breast Cancer

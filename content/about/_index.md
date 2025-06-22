@@ -28,13 +28,24 @@ We use a mix of automation and AI to solve this:
    - Classify by **cancer type** and **study design** (98% concordance with human tagging)
 3. Articles are categorized and uploaded to a **public spreadsheet**.
 
-📂 [Access the Spreadsheet](#) *(link placeholder)*
+📂 Access the Spreadsheets: 
+- [Pan-cancer & general oncology](https://docs.google.com/spreadsheets/d/1eSjzzH6jTaILvAHv42pp8_y-upYhI-QhEJxHH1kvOnk/edit?gid=1465123512#gid=1465123512) 
+- [Thoracic, Head & Neck](https://docs.google.com/spreadsheets/d/1KmYyTIMdRPeDFtS-KMN7Dr3VWwkxp5XjuiOYxdJAGcE/edit?gid=860661332#gid=860661332) 
+- [Gastrointestinal](https://docs.google.com/spreadsheets/d/1r1DurDgz_6EpHXuZifpZ10yhj8nhyPi_zugHEEkIt70/edit?gid=1626329069#gid=1626329069) 
+- [Genitourinary](https://docs.google.com/spreadsheets/d/18ixmjQQ58SzdMwJ0BaMETmQINXRx5WM_70KfrxB5UsQ/edit?gid=318807809#gid=318807809) 
+- [Gynecologic](https://docs.google.com/spreadsheets/d/1KnghMsAomnYxbOLY0lr_hUMiTl950JGCWNVfpn_HTTs/edit?gid=743322046#gid=743322046) 
+- [Breast](https://docs.google.com/spreadsheets/d/1d_b-a3_7-0p6PT3yJqQnTApICJKn7jzCEtqhJD0VV_8/edit?gid=944354361#gid=944354361) 
+- [CNS](https://docs.google.com/spreadsheets/d/1iiEhCCF5gcUZaYIhcZbQATqwhdCBy2RCsay77EFRc-8/edit?gid=1652575083#gid=1652575083) 
+- [Hematologic](https://docs.google.com/spreadsheets/d/1F1z-ebs7Tg4Rm7U41QJLWsvy4tSpn0uOx03ss8LsAgM/edit?gid=1232483159#gid=1232483159) 
+- [Skin](https://docs.google.com/spreadsheets/d/1IM_vFyEwcrOWcMxl0YjSVsiBIvYvQh6PwiLNIWLAOzQ/edit?gid=1996699275#gid=1996699275) 
+- [Other cancers](https://docs.google.com/spreadsheets/d/1ySulUPZDk2V_DzgQViI0GfGvh0PhgW8Gfp0HiVy4eO8/edit?gid=1197318815#gid=1197318815) 
+
 
 ---
 
-## 🐦 Twitter Summaries
+## 🐦 Twitter Summaries <!-- do not change title -->
 
-We share highlights from top clinical papers on Twitter. Each account is managed by a passionate team member:
+We summarize and share highlights from top clinical papers on Twitter, aiming for 2-3 tweets everyday. Each account is managed by a passionate team member:
 
 - [@OncologyPubMed](https://x.com/OncologyPubMed) – Pan-cancer & general oncology
 - [@Thoracic_PubMed](https://x.com/Thoracic_PubMed) – Thoracic, Head & Neck
