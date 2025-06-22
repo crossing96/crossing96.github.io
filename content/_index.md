@@ -10,7 +10,7 @@ date: 2025-03-01
 
 <hr />
 
-## 🧠 Pub-Xel OncoTweet
+## 🧬 Pub-Xel OncoTweet
 
 **Pub-Xel OncoTweet** identifies and classifies **oncology articles** published in **selected top-tier journals**, updates them daily in a **public spreadsheet**, and shares key clinical insights on **X** (formerly Twitter).
 
@@ -23,7 +23,7 @@ Stay up to date effortlessly:
 
 <hr />
 
-## 📂 Pub-Xel App
+## 💻 Pub-Xel App
 
 **Pub-Xel App** brings PubMed integration directly into **Microsoft Excel**, allowing you to:
 - 📥 Import PubMed data into Excel  
