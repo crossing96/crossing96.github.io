@@ -30,6 +30,6 @@ Pub-Xel is an open-source project.
 ## ✉️ Feedback or Questions?
 
 We’d love to hear from you!  
-📬 Email us at: `info@pubxel.org`
+📬 Email us at: info@pubxel.org
 
 <hr />

@@ -1,7 +1,5 @@
 ---
 title: "PubXel OncoTweet: Stay Updated with Cancer Research"
-description: ""
-date: 2025-03-01
 ---
 ## 🔍 Project Overview
 
@@ -71,7 +69,7 @@ We summarize and share highlights from top clinical papers on Twitter, aiming fo
 
 ## 📬 Questions or Feedback?
 
-Feel free to reach out to us at: `info@pubxel.org`
+Feel free to reach out to us at: info@pubxel.org
 
 <hr />
 
