@@ -7,7 +7,7 @@ date: 2025-03-01
 
 We are building a **daily-updated public database** that identifies **articles on specific cancer types** published in **high-impact medical journals**. Select clinically relevant articles are summarized on **Twitter**, making it easier to stay informed. The project currently covers **7 major cancer types**.
 
----
+<hr />
 
 ## ❓ Why This Matters
 
@@ -17,7 +17,7 @@ In our internal survey:
 - **71%** of clinicians/researchers lacked a reliable method to stay up to date.
 - **86%** found the process **time-consuming**.
 
----
+<hr />
 
 ## ⚙️ Our Approach
 
@@ -42,7 +42,7 @@ We use a mix of automation and AI to solve this:
 - [Other cancers](https://docs.google.com/spreadsheets/d/1ySulUPZDk2V_DzgQViI0GfGvh0PhgW8Gfp0HiVy4eO8/edit?gid=1197318815#gid=1197318815) 
 
 
----
+<hr />
 
 ## 🐦 Twitter Summaries <!-- do not change title -->
 
@@ -58,7 +58,7 @@ We summarize and share highlights from top clinical papers on Twitter, aiming fo
 
 📲 Follow your favorite cancer type to stay sharp on rounds, in clinic, or in the lab.
 
----
+<hr />
 
 ## 💡 Benefits
 
@@ -67,12 +67,12 @@ We summarize and share highlights from top clinical papers on Twitter, aiming fo
 - 💭 **Research inspiration** from trending studies  
 - ⏱️ **Time-saving**—no more endless journal browsing
 
----
+<hr />
 
 ## 📬 Questions or Feedback?
 
 Feel free to reach out to us at: `info@pubxel.org`
 
----
+<hr />
 
 *Powered by automation + curiosity.*

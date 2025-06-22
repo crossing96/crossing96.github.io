@@ -19,5 +19,4 @@ date: 2025-03-01
 - Oncotweet codebase development 
 - macOS App development and testing
 
-
----
+<hr />

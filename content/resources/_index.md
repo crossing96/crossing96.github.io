@@ -9,4 +9,4 @@ title: Resources
 
 [2022 Impact Factors.txt (updated at July 2023)](https://raw.githubusercontent.com/crossing96/Pub-Xel/refs/heads/main/data/impactfactor2022.txt)
 
----
+<hr />

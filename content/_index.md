@@ -8,7 +8,7 @@ date: 2025-03-01
 
 **Pub-Xel** is a free, open-source initiative designed to streamline access to biomedical research and simplify how we manage and use it - whether you're in the clinic, the lab, or both.
 
----
+<hr />
 
 ## 🧠 Pub-Xel OncoTweet
 
@@ -21,7 +21,7 @@ Stay up to date effortlessly:
   - [@GU_Onc_PubMed](https://x.com/GU_Onc_PubMed) – Genitourinary Cancers
   - [@BreastOncPubMed](https://x.com/BreastOncPubMed) – Breast Cancer
 
----
+<hr />
 
 ## 📂 Pub-Xel App
 
@@ -35,13 +35,13 @@ Built to assist reference management throughout your **career**, not just one pr
 - 🔍 [About the App](https://pubxel.org/about2/)
 - 💾 [Download for Windows](https://pubxel.org/download/)
 
----
+<hr />
 
 ## 🌱 Stay Connected
 
 Want to contribute, collaborate, or give feedback?  
 ✉️ Reach out: `info@pubxel.org`
 
----
+<hr />
 
 *Built by researchers, for researchers. Free forever. Always evolving.*

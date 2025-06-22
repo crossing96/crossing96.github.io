@@ -17,7 +17,7 @@ Designed for long-term use, Pub-Xel helps clinicians and researchers manage refe
 
 📦 [Download for Windows](https://pubxel.org/download/)
 
----
+<hr />
 
 ## 💻 Open Source & Compatibility
 
@@ -25,11 +25,11 @@ Pub-Xel is an open-source project.
 🔓 [View the Code on GitHub](https://github.com/crossing96/Pub-Xel)  
 🖥️ Currently supports **Windows only** – **macOS version is in development**.
 
----
+<hr />
 
 ## ✉️ Feedback or Questions?
 
 We’d love to hear from you!  
 📬 Email us at: `info@pubxel.org`
 
----
+<hr />
