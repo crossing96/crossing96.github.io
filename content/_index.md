@@ -15,7 +15,7 @@ date: 2025-03-01
 **Pub-Xel OncoTweet** identifies and classifies **oncology articles** published in **selected top-tier journals**, updates them daily in a **public spreadsheet**, and shares key clinical insights on **X** (formerly Twitter).
 
 Stay up to date effortlessly:
-- 📊 [About OncoTweet](https://pubxel.org/about/)
+- 📊 [w OncoTweet](https://pubxel.org/about/)
 - 🐦 Twitter feeds (see full list [here](https://www.pubxel.org/about#twitter-summaries)):
   - [@Thoracic_PubMed](https://x.com/Thoracic_PubMed) – Thoracic, Head & Neck Cancers
   - [@GU_Onc_PubMed](https://x.com/GU_Onc_PubMed) – Genitourinary Cancers
@@ -32,7 +32,7 @@ Stay up to date effortlessly:
 
 Built to assist reference management throughout your **career**, not just one project.
 
-- 🔍 [About the App](https://pubxel.org/about2/)
+- 🔍 [About the App](https://pubxel.org/introduction/)
 - 💾 [Download for Windows](https://pubxel.org/download/)
 
 <hr />
@@ -40,7 +40,7 @@ Built to assist reference management throughout your **career**, not just one pr
 ## 🌱 Stay Connected
 
 Want to contribute, collaborate, or give feedback?  
-✉️ Reach out: `info@pubxel.org`
+✉️ Reach out: info@pubxel.org
 
 <hr />
 

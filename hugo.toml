@@ -50,7 +50,7 @@ googleAnalytics = "G-QCHBQTC6WG"
 
 [[menu.main]]
   name = 'Introduction'
-  url = '/about2'
+  url = '/introduction'
   weight = 22
 
 [[menu.main]]
