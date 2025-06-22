@@ -1,5 +1,7 @@
 ---
 title: What is Pub-Xel App?
+description: ""
+date: 2025-03-01
 ---
 # 🧩 Pub-Xel App: Reference Management in Excel
 
