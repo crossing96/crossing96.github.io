@@ -34,7 +34,7 @@ googleAnalytics = "G-QCHBQTC6WG"
   weight = 4
 
 [[menu.main]]
-  name = 'Pub-Xel Twitter'
+  name = 'Pub-Xel OncoTwitter'
   params.header = true
   weight = 11
 
@@ -43,11 +43,15 @@ googleAnalytics = "G-QCHBQTC6WG"
   url = '/about'
   weight = 12
 
-
 [[menu.main]]
-  name = 'Pub-Xel Software'
+  name = 'Pub-Xel App'
   params.header = true
   weight = 21
+
+[[menu.main]]
+  name = 'About'
+  url = '/about2'
+  weight = 22
 
 [[menu.main]]
   name = 'Download'
