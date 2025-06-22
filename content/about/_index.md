@@ -1,5 +1,5 @@
 ---
-title: PubXel OncoTweet - Stay Updated with Cancer Research
+title: PubXel OncoTwitter - Stay Updated with Cancer Research
 ---
 ## 🔍 OncoTwitter Project Overview
 
@@ -24,7 +24,7 @@ We use a mix of automation and AI to solve this:
 1. **Daily PubMed Crawling** using broad search terms.
 2. **AI-Based Screening** using LLMs to:
    - Identify oncology articles (100% sensitivity, 97% specificity)
-   - Classify by **cancer type** and **study design** (98% concordance with human tagging)
+   - Classify by **cancer type** (98% concordance with human tagging) and **study design** 
 3. Articles are categorized and uploaded to a **public spreadsheet**.
 
 📂 Access the Spreadsheets: 
