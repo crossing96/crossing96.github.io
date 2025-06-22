@@ -1,9 +1,9 @@
 ---
 title: PubXel OncoTweet - Stay Updated with Cancer Research
 ---
-## 🔍 Project Overview
+## 🔍 OncoTwitter Project Overview
 
-We are building a **daily-updated public database** that identifies **articles on specific cancer types** published in **high-impact medical journals**. Select clinically relevant articles are summarized on **Twitter**, making it easier to stay informed. The project currently covers **7 major cancer types**.
+We are maintaining a **daily-updated public database** that identifies **articles on specific cancer types** published in **selected high-impact medical journals**. Clinically relevant articles are summarized on **Twitter**, making it easier to stay informed. The project currently covers **7 major cancer types**.
 
 <hr />
 
@@ -72,5 +72,3 @@ We summarize and share highlights from top clinical papers on Twitter, aiming fo
 Feel free to reach out to us at: info@pubxel.org
 
 <hr />
-
-*Powered by automation + curiosity.*

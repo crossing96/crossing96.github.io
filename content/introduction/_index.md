@@ -1,7 +1,7 @@
 ---
 title: What is Pub-Xel App?
 ---
-# 🧩 Pub-Xel App: Reference Management in Excel
+## 🧩 Pub-Xel App: Reference Management in Excel
 
 **Pub-Xel App** is a lightweight tool that streamlines the management of **biomedical references** directly in **Microsoft Excel**, with seamless integration with **PubMed**.
 
