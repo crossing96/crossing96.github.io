@@ -1,5 +1,5 @@
 ---
-title: PubXel OncoTweet: Stay Updated with Cancer Research
+title: "PubXel OncoTweet: Stay Updated with Cancer Research"
 description: ""
 date: 2025-03-01
 ---
