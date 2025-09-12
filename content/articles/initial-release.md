@@ -2,7 +2,7 @@
 title: Pub-Xel App Initial Release
 date: 2025-03-07
 ---
-Hi, I'm Jongyeob Kim. I'm thrilled to share with you the first component of **Pub-Xel project**: Pub-Xel App.
+Hi, I'm Jongyeob Kim. We are thrilled to share with you the first component of **Pub-Xel project**: Pub-Xel App.
 
 As a clinician and researcher, I’ve always strived to streamline access to new research, reduce the time needed to find relevant information, and improve efficiency in managing it. Over time, I realized that the challenge often lies not in a lack of information, but in its overwhelming abundance.
 
