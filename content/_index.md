@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Pub-Xel
 description: Streamlining Clinical Insight and Research Discovery
 date: 2025-03-01
 ---
