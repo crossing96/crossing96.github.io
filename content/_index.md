@@ -14,18 +14,16 @@ date: 2025-03-01
 
 **Pub-Xel OncoTwitter** identifies and classifies **oncology articles** published in **selected top-tier journals**, updates them daily in a **public spreadsheet**, and shares key clinical insights on **X** (formerly Twitter).
 
-
-{{< x user= "Thoracic_PubMed" id="1971517193763660181" >}}
-
-{{< x user="BreastOncPubMed" id="1971516341447545235" >}}
-
-
-Stay up to date effortlessly:
-- 📊 [About OncoTwitter](https://pubxel.org/about/)
+Stay up to date effortlessly. 📊 [About OncoTwitter](https://pubxel.org/about/)
 - 🐦 Twitter feeds (see full list [here](https://www.pubxel.org/about#twitter-summaries)):
-  - [@Thoracic_PubMed](https://x.com/Thoracic_PubMed) – Thoracic, Head & Neck Cancers
-  - [@GU_Onc_PubMed](https://x.com/GU_Onc_PubMed) – Genitourinary Cancers
-  - [@BreastOncPubMed](https://x.com/BreastOncPubMed) – Breast Cancer
+
+- [@Thoracic_PubMed](https://x.com/Thoracic_PubMed) – Thoracic, Head & Neck Cancers
+{{< x user= "Thoracic_PubMed" id="1972289322406871088" >}}
+
+- [@BreastOncPubMed](https://x.com/BreastOncPubMed) – Breast Cancer
+{{< x user="BreastOncPubMed" id="1972289411426783350" >}}
+
+
 
 <hr />
 
