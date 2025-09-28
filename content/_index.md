@@ -14,6 +14,12 @@ date: 2025-03-01
 
 **Pub-Xel OncoTwitter** identifies and classifies **oncology articles** published in **selected top-tier journals**, updates them daily in a **public spreadsheet**, and shares key clinical insights on **X** (formerly Twitter).
 
+
+{{< x user= "Thoracic_PubMed" id="1971517193763660181" >}}
+
+{{< x user="BreastOncPubMed" id="1971516341447545235" >}}
+
+
 Stay up to date effortlessly:
 - 📊 [About OncoTwitter](https://pubxel.org/about/)
 - 🐦 Twitter feeds (see full list [here](https://www.pubxel.org/about#twitter-summaries)):
