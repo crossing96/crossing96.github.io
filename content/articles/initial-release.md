@@ -2,9 +2,9 @@
 title: Pub-Xel App Initial Release
 date: 2025-03-07
 ---
-Hi, I'm Jongyeob Kim of the Pub-Xel Team. We are thrilled to share with you the first component of **Pub-Xel project**: Pub-Xel App.
-
-Our [team](https://pubxel.org/author/), all of us being both clinicians and researchers, has always strived to streamline access to new research, reduce the time needed to find relevant information, and improve efficiency in managing it. Over time, we realized that the challenge often lies not in a lack of information, but in its overwhelming abundance.
+Hi, I'm Jongyeob Kim of the Pub-Xel Team. We are thrilled to share with you the first component of **Pub-Xel project**: Pub-Xel App! 
+ 
+Our team, all of us being both enthusiastic clinicians and researchers, has always strived to streamline access to new research, reduce the time needed to find relevant information, and improve efficiency in managing it. Over time, we realized that the challenge often lies not in a lack of information, but in its overwhelming abundance.
 
 We wanted to develop practical and efficient methods to address these challenges and share them with our colleagues. Minimizing time spent on repetitive tasks is crucial, as it allows more time to focus on clinical care and research, ultimately enhancing their quality.
 

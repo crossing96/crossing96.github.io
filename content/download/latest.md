@@ -1,0 +1,31 @@
+---
+title: Version 1.0.2 (latest)
+date: 2025-11-13
+---
+Download the latest version of the App.
+### **Installer for Windows**
+<div style="display: inline-block; text-align: left; margin-top: 0;">
+  <a href="https://github.com/crossing96/Pub-Xel/releases/latest/download/Pub-Xel_Installer.exe" style="margin: 0;">
+    <img src="/windowsdownload.png" alt="Download Pub-Xel Installer" style="width:200px;height:auto;">
+  </a>
+</div>
+
+### **Download source code**
+[Download Pub-Xel source code of current version on GitHub.](https://github.com/crossing96/Pub-Xel/releases/latest)
+
+### **Recent Patch Notes**
+#### v1.0.2
+Features:
+- This year's newly released impact factor, 2024 impact factor is available. Make a new Worksheet, or add Excel column "IF2024" to an existing worksheet to import the new impact factor. 
+- Now supports the journal's quartile. Add excel column "Q2022","Q2023", or "Q2024" to obtain the journal's largest quartile among its categories. 
+- New hotkey to open PubMed link from copied PMIDs! The hotkey is enabled by default (alt+shift+p for PubMed), and is customizable like any other hotkeys in the preferences menu. 
+- A new setting to automatically run Pub-Xel on startup; can be enabled when installing/updating the software.
+- New Window to help users customize their Excel Worksheets. 
+
+Bug fixes & QoL changes:
+- Fixed inconsistencies in files export folder names
+- Fixed "export selected files" in inspect window not working as intended.
+- Fixed file names containing specific characters such as "(" not opening
+- Fixed DOI not being imported properly
+- Added confirmation window after saving settings & exiting
+- Added PMID to Excel citation style
