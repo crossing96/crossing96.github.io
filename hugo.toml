@@ -55,7 +55,7 @@ googleAnalytics = "G-QCHBQTC6WG"
 
 [[menu.main]]
   name = 'Download'
-  url = '/download'
+  url = '/download/latest'
   weight = 23
 
 [[menu.social]]

@@ -29,3 +29,7 @@ Bug fixes & QoL changes:
 - Fixed DOI not being imported properly
 - Added confirmation window after saving settings & exiting
 - Added PMID to Excel citation style
+
+#### v1.0.1
+Bug fixes:
+Fixed errors during data import
