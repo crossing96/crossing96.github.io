@@ -7,7 +7,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  # Personal landing page only — not the Pub-Xel site
+  deploy-github-io:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Deploy to crossing96.github.io
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          publish_dir: ./github-io
+
+  build-pubxel:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -30,26 +43,8 @@ jobs:
           name: public
           path: public
 
-  # Serves https://crossing96.github.io (no custom domain, no redirect)
-  deploy-github-io:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download site
-        uses: actions/download-artifact@v4
-        with:
-          name: public
-          path: public
-
-      - name: Deploy to crossing96.github.io
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          publish_dir: ./public
-
-  # Serves https://pubxel.org from a separate repo (avoids github.io redirect)
   deploy-pubxel-org:
-    needs: build
+    needs: build-pubxel
     runs-on: ubuntu-latest
     steps:
       - name: Download site
