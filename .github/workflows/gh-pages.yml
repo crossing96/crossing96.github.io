@@ -7,14 +7,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)!
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -24,8 +24,46 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy
+      - name: Upload site
+        uses: actions/upload-artifact@v4
+        with:
+          name: public
+          path: public
+
+  # Serves https://crossing96.github.io (no custom domain, no redirect)
+  deploy-github-io:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download site
+        uses: actions/download-artifact@v4
+        with:
+          name: public
+          path: public
+
+      - name: Deploy to crossing96.github.io
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./public
+
+  # Serves https://pubxel.org from a separate repo (avoids github.io redirect)
+  deploy-pubxel-org:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download site
+        uses: actions/download-artifact@v4
+        with:
+          name: public
+          path: public
+
+      - name: Add CNAME for pubxel.org
+        run: echo "pubxel.org" > public/CNAME
+
+      - name: Deploy to pubxelwebsite
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          publish_dir: ./public
+          external_repository: crossing96/pubxelwebsite
