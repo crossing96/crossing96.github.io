@@ -44,7 +44,7 @@ jobs:
       - name: Deploy to crossing96.github.io
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./public
 
   # Serves https://pubxel.org from a separate repo (avoids github.io redirect)
